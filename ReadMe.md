@@ -32,6 +32,6 @@ Internally both the scripts run the following commands
  `mvn clean test` will execute the unit test cases.
 
 # Help
-You can read detailed description of question [here](https://www.geektrust.com/coding/detailed/doremi-subscription)
+You can read detailed description of question [here](https://www.geektrust.com/coding/detailed/metro-card)
 You can refer our help documents [here](https://help.geektrust.com)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
