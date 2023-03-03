@@ -1,3 +1,10 @@
+DoReMi is a streaming app which allows users to listen to music, podcasts and watch videos. They offer different subscription plans for different categories of services. Users can subscribe to any of these plans.
+
+ - A user can choose only one plan per category. 
+ - All plans, by default, can only be streamed on one device. 
+ 
+
+
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
@@ -26,6 +33,6 @@ Internally both the scripts run the following commands
  `mvn clean test` will execute the unit test cases.
 
 # Help
-
+You can read detailed description of question [here](https://www.geektrust.com/coding/detailed/doremi-subscription)
 You can refer our help documents [here](https://help.geektrust.com)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
