@@ -1,9 +1,8 @@
-DoReMi is a streaming app which allows users to listen to music, podcasts and watch videos. They offer different subscription plans for different categories of services. Users can subscribe to any of these plans.
+# Context
 
- - A user can choose only one plan per category. 
- - All plans, by default, can only be streamed on one device. 
+A new metro train has been launched from the Central station to the Airport. It is a non-stop train, which means the train will stop only at the Airport with no intermediate stops. 
+It is also possible to return from the Airport back to the Central station. This is also a non-stop journey.
  
-
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
