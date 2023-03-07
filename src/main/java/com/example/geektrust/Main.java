@@ -39,7 +39,8 @@ public class Main {
                 final String inputLine = sc.nextLine();
                 Command command = new Command(inputLine);
                 commandExecutorFactory.getCommandExecutor(command).execute(command);
-            }
+  
+        }
             sc.close(); // closes the scanner
         } catch (IOException e) {
             e.printStackTrace();
